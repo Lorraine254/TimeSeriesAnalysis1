@@ -1,0 +1,16 @@
+ # Ignore virtual environment
+/venv/
+
+# Ignore pipenv's virtual environment
+/.venv/
+
+# Ignore environment configuration
+*.cfg
+
+# Ignore pip's cache
+__pycache__/
+
+# Ignore environment variables file
+.env
+
+exchangeRate/
